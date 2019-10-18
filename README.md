@@ -33,10 +33,10 @@ Running ```TestSuite ``` to run the 49 test cases.
 Check style test is supported.
 
 ## Buit With
-<li> [Java](https://www.java.com/en/)
-<li> [Junit](https://junit.org/junit5/)
-<li> [Javadoc](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
-<li> [Checkstyle](https://checkstyle.sourceforge.io/)
+<li> [Java] (https://www.java.com/en/)
+<li> [Junit] (https://junit.org/junit5/)
+<li> [Javadoc] (https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
+<li> [Checkstyle] (https://checkstyle.sourceforge.io/)
 
 ## Versioning
 ### Version 1.0.0
@@ -49,5 +49,5 @@ Build Game Engine
 Adding more game details
 
 ## License
-This game is licensed under [MIT]() license.
+This game is licensed under [MIT] () license.
 

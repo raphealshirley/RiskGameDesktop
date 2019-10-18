@@ -49,5 +49,5 @@ Build Game Engine
 Adding more game details
 
 ## License
-This game is licensed under [MIT] () license.
+This game is licensed under MIT license.
 

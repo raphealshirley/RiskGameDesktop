@@ -3,6 +3,10 @@ A Java Application implemented Risk Game. Embedded with Java doc, Junit, Checkst
 ## Getting Started
 ### Prerequisite
 Running environment is based on Java 8+.
+### Demo
+
+https://www.magisto.com/video/L0IVakgZGGwrBA1pYw?l=vsm&o=w&c=c
+
 ### Installing
 1. Clone Repository. <br>
 
